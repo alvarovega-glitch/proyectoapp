@@ -4,7 +4,7 @@
     --f7-navbar-bg-color: #EBDEC3; /*navbar*/
     --f7-navbar-text-color:#fff;
     --f7-bars-bg-color:#fff;/*toolbar*/
-	--color-verde:#EBDEC3;
+	--color-crema:#EBDEC3;
 	--color-gris: #8f8f8f;
 	--color-negro: #000;
 	--fondo-gris:#CFCFCF;
@@ -42,7 +42,7 @@ p{
 }
 
 .card-intro{
-	background-color: var(--color-verde);
+	background-color: var(--color-crema);
 	color: #fff;
 	box-shadow: none;
 	border-radius: 20px;
@@ -76,7 +76,7 @@ p{
 .block-title{
 	font-size: 22px;
 	overflow: initial;
-	color: var(--color-verde);
+	color: var(--color-crema);
 	font-weight: 500;
 }
 
