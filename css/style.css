@@ -97,7 +97,7 @@ p{
 }
 
 .card-popular .card-footer{
-	background-color: var(--color-verde);
+	background-color: var(--color-crema);
 	color: #fff;
 }
 .card-popular .card-footer a{
@@ -106,11 +106,11 @@ p{
 
 .toolbar-bottom a,
 .toolbar-bottom i{
-	color: var(--color-verde);	
+	color: var(--color-crema);	
 }
 
 .panel-top{
-	background-color: var(--color-verde);
+	background-color: var(--color-crema);
 	padding: 17px;
 	color: #fff;
 	text-align: center;
@@ -126,7 +126,7 @@ p{
 	background-color: var(--fondo-menu);
 }
 .list-menu i{
-	color: var(--color-verde);
+	color: var(--color-crema);
 }
 
 
